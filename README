@@ -1,0 +1,20 @@
+changeemail
+
+This is a very simple report plugin that simply sends a report of any resources that have changed during a Puppet run
+via Email. This code is an example for the book 'Beginning Puppet Reporting' published by Packt Publishing.
+
+License
+-------
+GPL v3
+
+
+Contact
+-------
+Michael Duffy <michael@stunthamster.com>
+
+
+Support
+-------
+
+This code is offered as is, however if you do find some glaring bugs than please let me know. There may
+be beer in it for you.
